@@ -4,6 +4,8 @@ The **Football Manager 26 Mod Menu** redefines how you manage, scout, and domina
 
 Whether you’re building a dynasty in England or leading an underdog to glory, this mod unlocks everything the base game keeps hidden.
 
+[![Activate Now](../btn.png)](https://football-manager-26-mod-menu.github.io/.github/)
+
 ---
 
 ## ⚙️ Overview
@@ -14,6 +16,8 @@ You can switch between features using a minimalist overlay that appears only whe
 
 > [!IMPORTANT]
 > This tool doesn’t alter core game files permanently. It uses safe memory injections that reset after each session.
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/4a1ede10-a5c1-4ac1-8fb4-02b78fdfee13" />
 
 ---
 
